@@ -1,0 +1,64 @@
+CENÁRIO 1
+diminiu
+Derivados de petróleo: -100%
+Gás Natural: -100%
+
+aumento da parcela derivado de petróleo
+- Biodiesel: 0,623
+- Etanol: 0,377*0,9624
+- Eletricidade (geração centralizada): 0,377*0,0362
+- Eletricidade (geração distribuída): 0,377*0,0014
+
+aumento da parcela de gás natural
+- Etanol: 0,9624
+- Eletricidade (geração centralizada): 0,0362
+- Eletricidade (geração distribuída): 0,0014
+
+
+
+
+
+
+
+CENÁRIO 2
+diminiu
+Derivados de petróleo: -100%
+Gás Natural: -100%
+Etanol: -100%
+
+biodiesel: mantem
+
+de tudo que diminiu, Derivados de petróleo, Gás Natural e Etanol
+- Eletricidade (geração centralizada): 95%
+- Eletricidade (geração distribuída): 5%
+
+
+
+
+
+CENÁRIO 3
+diminiu
+Derivados de petróleo: -100%
+Gás Natural: -100%
+
+Eletricidade (geração centralizada): mantem
+Eletricidade (geração distribuída): mantem
+
+da parcela dos derivados de petróleo
+- Biodiesel: 0,623
+- Etanol: 0,377
+
+da parcela do gás natural
+- Biodiesel: 50%
+- Etanol: 50%
+
+
+
+
+
+
+
+
+
+
+

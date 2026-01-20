@@ -1,0 +1,33 @@
+faça um parágrafo retomando brevemente o que é o cenário 1, e explciadno os resultados:
+ΔVA total (Cenário 3): -1,2187229003757238e-10
+Δx total  (Cenário 3): 6784,728648598335
+
+
+faça uma linha chamando a tabela 8, e um paragrafo explicando
+🔹 Top 10 maiores ganhos de produção (Cenário 3):
+ID                                                                Descricao      delta_x     delta_VA
+20                                                                Biodiesel 89112,476317 30040,491654
+22                                            Fabricação de biocombustíveis 51448,132292 13964,457516
+ 1            Agricultura, inclusive o apoio à agricultura e a pós-colheita 21462,211099 13419,947013
+23    Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros  3457,711336  1653,106590
+10                                              Outros produtos alimentares  2769,912795   816,488471
+48                                                     Transporte terrestre  2165,059974  1062,508803
+24     Fabricação de defensivos, desinfestantes, tintas e químicos diversos  1618,225316   698,947094
+58             Intermediação financeira, seguros e previdência complementar  1217,468463   849,739998
+47             Comércio por atacado e a varejo, exceto veículos automotores   942,490794   623,189435
+ 8 Abate e produtos de carne, inclusive os produtos do laticínio e da pesca   784,621970   177,395054
+
+
+faça uma linha chamando a tabela 9, e um paragrafo explicando
+🔻 Top 10 maiores perdas de produção (Cenário 3):
+ID                                                                Descricao        delta_x      delta_VA
+19                                                    Derivados de petróleo -144483,332485 -48891,782726
+ 5             Extração de petróleo e gás, inclusive as atividades de apoio  -13588,074461  -8369,044424
+43                                                              Gás Natural  -10135,889113  -6687,355044
+ 9                                            Fabricação e refino de açúcar   -1565,896981   -330,297757
+40                                 Geração centralizada de energia elétrica    -431,562307   -193,786843
+60        Atividades jurídicas, contábeis, consultoria e sedes de empresas     -420,962741   -305,214575
+49                                                    Transporte aquaviário    -323,672127   -183,191105
+63  Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual    -315,911332   -222,437932
+29 Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura    -225,916199    -90,407709
+33                          Fabricação de máquinas e equipamentos elétricos    -210,574773    -94,988011

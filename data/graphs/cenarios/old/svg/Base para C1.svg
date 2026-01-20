@@ -1,0 +1,103 @@
+<svg height="500" width="1200" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 08/12/2025, 10:28:01 -->
+<rect height="500" width="1200" fill="#ffffff"></rect>
+<g transform="translate(202.22688,20)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 118.36526C191.389 118.36526 191.389 145.54354 370.77801 145.54354" fill="none" stroke-width="115.35917" stroke="#c0392b" opacity="0.45"><title>Derivados de Petróleo → Cenário Base - Cenário 1: 56,168.35</title></path>
+<path id="flow7" d="M382.77801 127.25045C562.16701 127.25045 562.16701 103.05284 741.55602 103.05284" fill="none" stroke-width="78.77299" stroke="#f39c12" opacity="0.45"><title>Cenário Base - Cenário 1 → Biodiesel (C1): 38,354.55</title></path>
+<path id="flow8" d="M382.77801 205.73951C562.16701 205.73951 562.16701 228.1739 741.55602 228.1739" fill="none" stroke-width="78.20513" stroke="#27ae60" opacity="0.45"><title>Cenário Base - Cenário 1 → Etanol (C1): 38,078.06</title></path>
+<path id="flow2" d="M12 292.58421C191.389 292.58421 191.389 226.49849 370.77801 226.49849" fill="none" stroke-width="32.28085" stroke="#27ae60" opacity="0.45"><title>Etanol → Cenário Base - Cenário 1: 15,717.54</title></path>
+<path id="flow1" d="M12 226.24431C191.389 226.24431 191.389 206.79059 370.77801 206.79059" fill="none" stroke-width="7.13494" stroke="#f39c12" opacity="0.45"><title>Biodiesel → Cenário Base - Cenário 1: 3,474.00</title></path>
+<path id="flow5" d="M12 450.96697C191.389 450.96697 191.389 244.98525 370.77801 244.98525" fill="none" stroke-width="3.99737" stroke="#2980b9" opacity="0.45"><title>Gás Natural → Cenário Base - Cenário 1: 1,946.32</title></path>
+<path id="flow9" d="M382.77801 245.87332C562.16701 245.87332 562.16701 314.9397 741.55602 314.9397" fill="none" stroke-width="2.06248" stroke="#f1c40f" opacity="0.45"><title>Cenário Base - Cenário 1 → Eletricidade (GC) (C1): 1,004.22</title></path>
+<path id="flow3" d="M12 355.52417C191.389 355.52417 191.389 242.80644 370.77801 242.80644" fill="none" stroke-width="1" stroke="#f1c40f" opacity="0.45"><title>Eletricidade (GC) → Cenário Base - Cenário 1: 163.14</title></path>
+<path id="flow10" d="M382.77801 246.94426C562.16701 246.94426 562.16701 362.64264 741.55602 362.64264" fill="none" stroke-width="1" stroke="#f1c40f" opacity="0.45"><title>Cenário Base - Cenário 1 → Eletricidade (GD) (C1): 38.66</title></path>
+<path id="flow4" d="M12 402.32999C191.389 402.32999 191.389 242.98027 370.77801 242.98027" fill="none" stroke-width="1" stroke="#f1c40f" opacity="0.45"><title>Eletricidade (GD) → Cenário Base - Cenário 1: 6.13</title></path>
+<path id="flow6" d="M382.77801 87.86396C562.16701 87.86396 562.16701 17.03434 741.55602 17.03434" fill="none" stroke-width="1" stroke="#c0392b" opacity="0.45"><title>Cenário Base - Cenário 1 → Derivados de Petróleo (C1): 0.00</title></path>
+<path id="flow11" d="M382.77801 246.98396C562.16701 246.98396 562.16701 409.31434 741.55602 409.31434" fill="none" stroke-width="1" stroke="#2980b9" opacity="0.45"><title>Cenário Base - Cenário 1 → Gás Natural (C1): 0.00</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r0" class="for_r0" x="0" y="60.68568" height="115.35917" width="12" fill="#c0392b" fill-opacity="1"><title>Derivados de Petróleo:
+56,168.35</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r1" class="for_r1" x="370.77801" y="87.86396" height="159.12" width="12" fill="#555" fill-opacity="1"><title>Cenário Base - Cenário 1:
+77,475.49</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r2" class="for_r2" x="0" y="222.67684" height="7.13494" width="12" fill="#f39c12" fill-opacity="1"><title>Biodiesel:
+3,474.00</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r3" class="for_r3" x="0" y="276.44378" height="32.28085" width="12" fill="#27ae60" fill-opacity="1"><title>Etanol:
+15,717.54</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r4" class="for_r4" x="0" y="355.35664" height="0.33506" width="12" fill="#f1c40f" fill-opacity="1"><title>Eletricidade (GC):
+163.14</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r5" class="for_r5" x="0" y="402.32369" height="0.01259" width="12" fill="#f1c40f" fill-opacity="1"><title>Eletricidade (GD):
+6.13</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r6" class="for_r6" x="0" y="448.96828" height="3.99737" width="12" fill="#2980b9" fill-opacity="1"><title>Gás Natural:
+1,946.32</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r7" class="for_r7" x="741.55602" y="17.03434" height="0" width="12" fill="#c0392b" fill-opacity="1"><title>Derivados de Petróleo (C1):
+0.00</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r8" class="for_r8" x="741.55602" y="63.66634" height="78.77299" width="12" fill="#f39c12" fill-opacity="1"><title>Biodiesel (C1):
+38,354.55</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r9" class="for_r9" x="741.55602" y="189.07133" height="78.20513" width="12" fill="#27ae60" fill-opacity="1"><title>Etanol (C1):
+38,078.06</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r10" class="for_r10" x="741.55602" y="313.90846" height="2.06248" width="12" fill="#f1c40f" fill-opacity="1"><title>Eletricidade (GC) (C1):
+1,004.22</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r11" class="for_r11" x="741.55602" y="362.60294" height="0.0794" width="12" fill="#f1c40f" fill-opacity="1"><title>Eletricidade (GD) (C1):
+38.66</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r12" class="for_r12" x="741.55602" y="409.31434" height="0" width="12" fill="#2980b9" fill-opacity="1"><title>Gás Natural (C1):
+0.00</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="serif" font-size="20px" fill="#000000">
+<text text-anchor="middle" x="397.77312" y="475" font-size="12px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-192.22688" y="93.94525" width="190.14437" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-8.0325" y="118.36526" font-weight="400" font-size="20px" dy="-3.12">Derivados de Petróleo<tspan x="-8.0325" dy="19" font-weight="400" font-size="20px">56,168.35</tspan></text>
+<rect id="label1_bg" class="for_r1" x="269.74208" y="143.00397" width="214.58187" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="376.77801" y="167.42396" font-weight="400" font-size="20px" dy="-3.12">Cenário Base - Cenário 1<tspan x="376.77801" dy="19" font-weight="400" font-size="20px">77,475.49</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-90.03938" y="201.82431" width="88.40023" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-8.0325" y="226.24431" font-weight="400" font-size="20px" dy="-3.12">Biodiesel<tspan x="-8.0325" dy="19" font-weight="400" font-size="20px">3,474.00</tspan></text>
+<rect id="label3_bg" class="for_r3" x="-94.4925" y="268.1642" width="92.84164" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-8.0325" y="292.58421" font-weight="400" font-size="20px" dy="-3.12">Etanol<tspan x="-8.0325" dy="19" font-weight="400" font-size="20px">15,717.54</tspan></text>
+<rect id="label4_bg" class="for_r4" x="-157.21125" y="331.10417" width="155.46469" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="-8.0325" y="355.52417" font-weight="400" font-size="20px" dy="-3.12">Eletricidade (GC)<tspan x="-8.0325" dy="19" font-weight="400" font-size="20px">163.14</tspan></text>
+<rect id="label5_bg" class="for_r5" x="-158.32063" y="377.90999" width="156.5682" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="-8.0325" y="402.32999" font-weight="400" font-size="20px" dy="-3.12">Eletricidade (GD)<tspan x="-8.0325" dy="19" font-weight="400" font-size="20px">6.13</tspan></text>
+<rect id="label6_bg" class="for_r6" x="-110.57063" y="426.54698" width="108.92758" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-8.0325" y="450.96697" font-weight="400" font-size="20px" dy="-3.12">Gás Natural<tspan x="-8.0325" dy="19" font-weight="400" font-size="20px">1,946.32</tspan></text>
+<rect id="label7_bg" class="for_r7" x="755.6385" y="-7.38566" width="232.13461" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="761.58852" y="17.03434" font-weight="400" font-size="20px" dy="-3.12">Derivados de Petróleo (C1)<tspan x="761.58852" dy="19" font-weight="400" font-size="20px">0.00</tspan></text>
+<rect id="label8_bg" class="for_r8" x="755.6385" y="78.63284" width="129.95687" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="761.58852" y="103.05284" font-weight="400" font-size="20px" dy="-3.12">Biodiesel (C1)<tspan x="761.58852" dy="19" font-weight="400" font-size="20px">38,354.55</tspan></text>
+<rect id="label9_bg" class="for_r9" x="755.6385" y="203.75391" width="106.61703" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="761.58852" y="228.1739" font-weight="400" font-size="20px" dy="-3.12">Etanol (C1)<tspan x="761.58852" dy="19" font-weight="400" font-size="20px">38,078.06</tspan></text>
+<rect id="label10_bg" class="for_r10" x="755.6385" y="290.5197" width="197.12484" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="761.58852" y="314.9397" font-weight="400" font-size="20px" dy="-3.12">Eletricidade (GC) (C1)<tspan x="761.58852" dy="19" font-weight="400" font-size="20px">1,004.22</tspan></text>
+<rect id="label11_bg" class="for_r11" x="755.6385" y="338.22264" width="198.22836" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="761.58852" y="362.64264" font-weight="400" font-size="20px" dy="-3.12">Eletricidade (GD) (C1)<tspan x="761.58852" dy="19" font-weight="400" font-size="20px">38.66</tspan></text>
+<rect id="label12_bg" class="for_r12" x="755.6385" y="384.89434" width="150.48422" height="47.6" rx="5" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="761.58852" y="409.31434" font-weight="400" font-size="20px" dy="-3.12">Gás Natural (C1)<tspan x="761.58852" dy="19" font-weight="400" font-size="20px">0.00</tspan></text>
+</g>
+</g></svg>

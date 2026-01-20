@@ -1,0 +1,95 @@
+Acho que sim o próximo passo pode ser de calcular intensidades e multiplicadores. Pode olhar no capítulo 6.2.2 do Miller e Blair ("Income/Employment Multipliers"), lá está explicado bem como fazer isso com renda e emprego. Acredito que o mesmo vale para energia. Se não me engano, a nota técnica também calcula alguns multiplicadores ou intensidades, especialmente em relação ao emprego, então talvez seria um exercício interessante ver se você consegue rapidamente recriar o que foi feito lá. 
+
+me ajude a fazer isso no python, sendo que já tenho, o script rodado com amatrix insumo produto e as variaveis: 
+Matriz Z (Fluxo entre setores): demanda intermediária total pelo produto de cada setor (Z) setor vs setor
+Vetor de Demanda Final (f)
+vetor de produção total (x)
+Matriz de Coeficientes Técnicos A (Z * X_inv)
+Matriz Identidade (I)
+Inversa de Leontief (L)
+Valor agregado (VA)
+
+minha matrix insumo produto, que está no dataframe "mip_energia" tem as seguintes variáveis
+ID	Descricao
+1	Agricultura, inclusive o apoio à agricultura e a pós-colheita
+2	Pecuária, inclusive o apoio à pecuária
+3	Produção florestal; pesca e aquicultura
+4	Extração de carvão mineral e de minerais não-metálicos
+5	Extração de petróleo e gás, inclusive as atividades de apoio
+6	Extração de minério de ferro, inclusive beneficiamentos e a aglomeração
+7	Extração de minerais metálicos não-ferrosos, inclusive beneficiamentos
+8	Abate e produtos de carne, inclusive os produtos do laticínio e da pesca
+9	Fabricação e refino de açúcar
+10	Outros produtos alimentares
+11	Fabricação de bebidas
+12	Fabricação de produtos do fumo
+13	Fabricação de produtos têxteis
+14	Confecção de artefatos do vestuário e acessórios
+15	Fabricação de calçados e de artefatos de couro
+16	Fabricação de produtos da madeira
+17	Fabricação de celulose, papel e produtos de papel
+18	Impressão e reprodução de gravações
+19	Derivados de petróleo
+20	Biodiesel
+21	Coquerias
+22	Fabricação de biocombustíveis
+23	Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros
+24	Fabricação de defensivos, desinfestantes, tintas e químicos diversos
+25	Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal
+26	Fabricação de produtos farmoquímicos e farmacêuticos
+27	Fabricação de produtos de borracha e de material plástico
+28	Fabricação de produtos de minerais não-metálicos
+29	Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura
+30	Metalurgia de metais não-ferosos e a fundição de metais
+31	Fabricação de produtos de metal, exceto máquinas e equipamentos
+32	Fabricação de equipamentos de informática, produtos eletrônicos e ópticos
+33	Fabricação de máquinas e equipamentos elétricos
+34	Fabricação de máquinas e equipamentos mecânicos
+35	Fabricação de automóveis, caminhões e ônibus, exceto peças
+36	Fabricação de peças e acessórios para veículos automotores
+37	Fabricação de outros equipamentos de transporte, exceto veículos automotores
+38	Fabricação de móveis e de produtos de indústrias diversas
+39	Manutenção, reparação e instalação de máquinas e equipamentos
+40	Geração centralizada de energia elétrica
+41	Geração distribuída de energia elétrica
+42	Transmissão
+43	Gás Natural
+44	Água, esgoto e gestão de resíduos
+45	Construção
+46	Comércio e reparação de veículos automotores e motocicletas
+47	Comércio por atacado e a varejo, exceto veículos automotores
+48	Transporte terrestre
+49	Transporte aquaviário
+50	Transporte aéreo
+51	Armazenamento, atividades auxiliares dos transportes e correio
+52	Alojamento
+53	Alimentação
+54	Edição e edição integrada à impressão
+55	Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem
+56	Telecomunicações
+57	Desenvolvimento de sistemas e outros serviços de informação
+58	Intermediação financeira, seguros e previdência complementar
+59	Atividades imobiliárias
+60	Atividades jurídicas, contábeis, consultoria e sedes de empresas 
+61	Serviços de arquitetura, engenharia, testes/análises técnicas e P & D
+62	Outras atividades profissionais, científicas e técnicas
+63	Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual
+64	Outras atividades administrativas e serviços complementares
+65	Atividades de vigilância, segurança e investigação
+66	Administração pública, defesa e seguridade social
+67	Educação pública
+68	Educação privada
+69	Saúde pública
+70	Saúde privada
+71	Atividades artísticas, criativas e de espetáculos
+72	Organizações associativas e outros serviços pessoais
+73	Serviços domésticos
+74	Consumo Intermediário total
+75	"Exportação de bens e serviços"
+76	"Consumo do governo"
+77	"Consumo das ISFLSF"
+78	"Consumo das famílias"
+79	"Formação bruta de capital fixo"
+80	"Variação de estoque"
+81	"Demanda final"
+82	"Demanda total"
