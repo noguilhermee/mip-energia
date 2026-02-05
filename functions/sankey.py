@@ -1,7 +1,6 @@
 import plotly.graph_objects as go
 import plotly.io as pio
 
-
 def plot_sankey_base_vs_cenario(
     cenario_nome: str,
     valores_base: dict,
