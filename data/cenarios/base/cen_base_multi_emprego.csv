@@ -1,4 +1,4 @@
-ID;Setor;M_Emprego
+﻿ID;Setor;M_Emprego
 73;Serviços domésticos;88.16
 2;Pecuária, inclusive o apoio à pecuária;45.94
 14;Confecção de artefatos do vestuário e acessórios;33.52
@@ -9,3 +9,66 @@ ID;Setor;M_Emprego
 8;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;23.62
 68;Educação privada;22.75
 52;Alojamento;21.16
+46;Comércio e reparação de veículos automotores e motocicletas;20.85
+1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;20.35
+45;Construção;20.34
+13;Fabricação de produtos têxteis;20.29
+65;Atividades de vigilância, segurança e investigação;19.93
+16;Fabricação de produtos da madeira;19.46
+64;Outras atividades administrativas e serviços complementares;19.26
+15;Fabricação de calçados e de artefatos de couro;18.75
+47;Comércio por atacado e a varejo, exceto veículos automotores;18.44
+9;Fabricação e refino de açúcar;17.12
+70;Saúde privada;16.81
+38;Fabricação de móveis e de produtos de indústrias diversas;16.00
+10;Outros produtos alimentares;15.68
+69;Saúde pública;15.47
+48;Transporte terrestre;15.37
+22;Fabricação de biocombustíveis;14.48
+67;Educação pública;14.11
+61;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;13.63
+18;Impressão e reprodução de gravações;13.16
+28;Fabricação de produtos de minerais não-metálicos;13.09
+12;Fabricação de produtos do fumo;13.00
+54;Edição e edição integrada à impressão;12.94
+62;Outras atividades profissionais, científicas e técnicas;12.25
+31;Fabricação de produtos de metal, exceto máquinas e equipamentos;12.12
+60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;11.52
+39;Manutenção, reparação e instalação de máquinas e equipamentos;11.51
+55;Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem;10.89
+4;Extração de carvão mineral e de minerais não-metálicos;10.66
+44;Água, esgoto e gestão de resíduos;10.53
+51;Armazenamento, atividades auxiliares dos transportes e correio;10.31
+11;Fabricação de bebidas;10.29
+25;Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal;9.83
+63;Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual;9.60
+34;Fabricação de máquinas e equipamentos mecânicos;9.26
+27;Fabricação de produtos de borracha e de material plástico;9.20
+36;Fabricação de peças e acessórios para veículos automotores;8.69
+66;Administração pública, defesa e seguridade social;8.65
+35;Fabricação de automóveis, caminhões e ônibus, exceto peças;8.46
+17;Fabricação de celulose, papel e produtos de papel;8.30
+33;Fabricação de máquinas e equipamentos elétricos;8.18
+56;Telecomunicações;7.85
+57;Desenvolvimento de sistemas e outros serviços de informação;7.70
+30;Metalurgia de metais não-ferosos e a fundição de metais;6.98
+26;Fabricação de produtos farmoquímicos e farmacêuticos;6.60
+7;Extração de minerais metálicos não-ferrosos, inclusive beneficiamentos;6.58
+32;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;6.55
+24;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;6.54
+29;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;6.47
+49;Transporte aquaviário;6.43
+50;Transporte aéreo;6.20
+37;Fabricação de outros equipamentos de transporte, exceto veículos automotores;5.93
+21;Coquerias;5.47
+6;Extração de minério de ferro, inclusive beneficiamentos e a aglomeração;5.01
+23;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;4.99
+58;Intermediação financeira, seguros e previdência complementar;4.87
+19;Derivados de petróleo;4.63
+20;Biodiesel;4.43
+5;Extração de petróleo e gás, inclusive as atividades de apoio;4.18
+41;Geração distribuída de energia elétrica;3.96
+42;Transmissão;3.93
+40;Geração centralizada de energia elétrica;3.89
+43;Gás Natural;2.81
+59;Atividades imobiliárias;1.33
