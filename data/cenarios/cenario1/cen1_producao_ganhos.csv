@@ -1,11 +1,11 @@
-﻿ID;Setor;delta_x;delta_VA
-20;Biodiesel;88817.27;9000.07
-22;Fabricação de biocombustíveis;49789.32;10501.53
-1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;20721.79;10907.14
-23;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;3316.49;493.23
-10;Outros produtos alimentares;2658.33;540.17
-48;Transporte terrestre;2082.03;862.52
-40;Geração centralizada de energia elétrica;1982.23;661.24
-24;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;1561.29;269.66
-58;Intermediação financeira, seguros e previdência complementar;1222.64;796.23
-47;Comércio por atacado e a varejo, exceto veículos automotores;834.58;510.30
+﻿ID;Setor;delta_x;delta_va
+20;Biodiesel;53431.82;5414.38
+21;Coquerias;97.28;3.39
+73;Serviços domésticos;0.00;0.00
+69;Saúde pública;-0.09;-0.06
+12;Fabricação de produtos do fumo;-0.22;-0.05
+70;Saúde privada;-0.29;-0.17
+67;Educação pública;-1.96;-1.65
+37;Fabricação de outros equipamentos de transporte, exceto veículos automotores;-2.93;-0.75
+15;Fabricação de calçados e de artefatos de couro;-3.53;-1.26
+35;Fabricação de automóveis, caminhões e ônibus, exceto peças;-5.63;-0.70

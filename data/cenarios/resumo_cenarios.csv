@@ -1,4 +1,5 @@
-﻿Cenario;Delta_x;Delta_VA;Delta_f;Montante_Redistribuido
-Cenário Bio+El;6194.23;10027.22;0.00;143660.62
-Cenário El;-8048.15;7822.57;0.00;143660.62
-Cenário Bio;6872.77;5376.15;0.00;143660.62
+﻿Cenario;Delta_f;Novo_Fluxo_Total;Delta_x;Delta_VA;Delta_Emp
+Cenário Base;0.00;79799.05;0.00;0.00;0.00
+Cenário 1 - Substituição Fósseis → Renováveis;-19329.64;60469.41;-44171.98;-10703.40;-88484.52
+Cenário 2 - Eletrificação Veículos Leves;-20417.19;59381.86;-46849.34;-11054.65;-94055.37
+Cenário 3 - Ampliação Biocombustíveis;-23476.78;56322.27;-53240.19;-13108.21;-100586.37

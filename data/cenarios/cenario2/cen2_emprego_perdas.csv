@@ -1,11 +1,11 @@
 ﻿ID;Setor;delta_emp;emp_coeff
-47;Comércio por atacado e a varejo, exceto veículos automotores;-30618.85;14.54
-1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;-25164.27;16.80
-60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;-9649.01;8.26
-43;Gás Natural;-5404.06;0.68
-48;Transporte terrestre;-4121.22;10.22
-22;Fabricação de biocombustíveis;-3493.96;1.80
-5;Extração de petróleo e gás, inclusive as atividades de apoio;-3028.51;0.22
-9;Fabricação e refino de açúcar;-3026.16;3.03
-19;Derivados de petróleo;-2345.14;0.04
-51;Armazenamento, atividades auxiliares dos transportes e correio;-2176.43;5.82
+47;Comércio por atacado e a varejo, exceto veículos automotores;-30036.53;14.540389
+1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;-14424.05;16.801451
+48;Transporte terrestre;-9673.22;10.221896
+60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;-8429.76;8.257374
+64;Outras atividades administrativas e serviços complementares;-3177.17;15.966609
+51;Armazenamento, atividades auxiliares dos transportes e correio;-2203.47;5.822909
+22;Fabricação de biocombustíveis;-1956.91;1.798323
+5;Extração de petróleo e gás, inclusive as atividades de apoio;-1723.10;0.221937
+9;Fabricação e refino de açúcar;-1698.63;3.034468
+63;Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual;-1640.58;6.156377

@@ -1,11 +1,11 @@
 ﻿ID;Setor;delta_emp;emp_coeff
-40;Geração centralizada de energia elétrica;27807.66;0.44
-64;Outras atividades administrativas e serviços complementares;11595.70;15.97
-62;Outras atividades profissionais, científicas e técnicas;4475.53;5.85
-61;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;3927.10;10.03
-31;Fabricação de produtos de metal, exceto máquinas e equipamentos;3639.84;6.57
-42;Transmissão;3360.39;0.74
-33;Fabricação de máquinas e equipamentos elétricos;3191.44;2.48
-28;Fabricação de produtos de minerais não-metálicos;3042.29;6.72
-72;Organizações associativas e outros serviços pessoais;2354.59;26.19
-58;Intermediação financeira, seguros e previdência complementar;2167.80;1.91
+40;Geração centralizada de energia elétrica;1580.49;0.442295
+42;Transmissão;190.92;0.744163
+41;Geração distribuída de energia elétrica;93.21;0.471845
+33;Fabricação de máquinas e equipamentos elétricos;21.06;2.480856
+73;Serviços domésticos;0.00;88.157795
+12;Fabricação de produtos do fumo;-0.32;1.133172
+69;Saúde pública;-0.37;10.944237
+21;Coquerias;-1.53;0.078893
+35;Fabricação de automóveis, caminhões e ônibus, exceto peças;-3.18;0.854764
+70;Saúde privada;-3.50;11.318282

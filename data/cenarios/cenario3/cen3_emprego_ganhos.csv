@@ -1,11 +1,11 @@
 ﻿ID;Setor;delta_emp;emp_coeff
-1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;233430.87;16.80
-22;Fabricação de biocombustíveis;59555.20;1.80
-48;Transporte terrestre;14720.83;10.22
-20;Biodiesel;13953.91;0.25
-47;Comércio por atacado e a varejo, exceto veículos automotores;12649.28;14.54
-2;Pecuária, inclusive o apoio à pecuária;12584.12;38.77
-10;Outros produtos alimentares;7198.47;3.95
-64;Outras atividades administrativas e serviços complementares;5082.80;15.97
-51;Armazenamento, atividades auxiliares dos transportes e correio;2318.26;5.82
-39;Manutenção, reparação e instalação de máquinas e equipamentos;2192.13;6.66
+20;Biodiesel;5158.51;0.252014
+21;Coquerias;1.81;0.078893
+73;Serviços domésticos;0.00;88.157795
+12;Fabricação de produtos do fumo;-0.33;1.133172
+69;Saúde pública;-1.17;10.944237
+70;Saúde privada;-4.18;11.318282
+35;Fabricação de automóveis, caminhões e ônibus, exceto peças;-5.41;0.854764
+37;Fabricação de outros equipamentos de transporte, exceto veículos automotores;-7.23;1.945280
+6;Extração de minério de ferro, inclusive beneficiamentos e a aglomeração;-9.64;0.383857
+7;Extração de minerais metálicos não-ferrosos, inclusive beneficiamentos;-14.67;1.584250

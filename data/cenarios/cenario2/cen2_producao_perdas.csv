@@ -1,11 +1,11 @@
-﻿ID;Setor;delta_x;delta_VA
-19;Derivados de petróleo;-53990.89;-5123.70
-5;Extração de petróleo e gás, inclusive as atividades de apoio;-13645.83;-6085.53
-43;Gás Natural;-7990.21;-4547.64
-47;Comércio por atacado e a varejo, exceto veículos automotores;-2105.78;-1287.56
-22;Fabricação de biocombustíveis;-1942.90;-409.79
-1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;-1497.74;-788.35
-60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;-1168.53;-801.85
-9;Fabricação e refino de açúcar;-997.26;-162.95
-23;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;-861.07;-128.06
-10;Outros produtos alimentares;-425.38;-86.44
+﻿ID;Setor;delta_x;delta_va
+19;Derivados de petróleo;-30049.69;-2851.70
+5;Extração de petróleo e gás, inclusive as atividades de apoio;-7763.93;-3462.43
+47;Comércio por atacado e a varejo, exceto veículos automotores;-2065.73;-1263.07
+43;Gás Natural;-1483.29;-844.22
+22;Fabricação de biocombustíveis;-1088.19;-229.52
+60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;-1020.88;-700.53
+48;Transporte terrestre;-946.32;-392.03
+1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;-858.50;-451.88
+58;Intermediação financeira, seguros e previdência complementar;-613.67;-399.65
+23;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;-602.76;-89.64

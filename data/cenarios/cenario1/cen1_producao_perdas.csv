@@ -1,11 +1,11 @@
-﻿ID;Setor;delta_x;delta_VA
-19;Derivados de petróleo;-144638.38;-13726.09
-5;Extração de petróleo e gás, inclusive as atividades de apoio;-13655.66;-6089.92
-43;Gás Natural;-10053.37;-5721.89
-9;Fabricação e refino de açúcar;-1591.31;-260.02
-60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;-450.34;-309.03
-49;Transporte aquaviário;-327.94;-143.39
-63;Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual;-317.25;-197.31
-29;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;-217.35;-49.50
-33;Fabricação de máquinas e equipamentos elétricos;-153.96;-38.58
-34;Fabricação de máquinas e equipamentos mecânicos;-144.36;-41.91
+﻿ID;Setor;delta_x;delta_va
+19;Derivados de petróleo;-78003.33;-7402.46
+5;Extração de petróleo e gás, inclusive as atividades de apoio;-5397.42;-2407.05
+47;Comércio por atacado e a varejo, exceto veículos automotores;-1674.08;-1023.60
+43;Gás Natural;-1621.04;-922.61
+22;Fabricação de biocombustíveis;-1404.01;-296.13
+1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;-1392.78;-733.10
+9;Fabricação e refino de açúcar;-1204.00;-196.73
+48;Transporte terrestre;-889.99;-368.69
+60;Atividades jurídicas, contábeis, consultoria e sedes de empresas ;-787.77;-540.57
+58;Intermediação financeira, seguros e previdência complementar;-635.47;-413.85
