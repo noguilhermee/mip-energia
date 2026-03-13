@@ -1,11 +1,11 @@
 ﻿ID;Setor;delta_x;delta_va
-40;Geração centralizada de energia elétrica;3573.39;1192.02
-42;Transmissão;256.56;137.51
-41;Geração distribuída de energia elétrica;197.54;68.47
-33;Fabricação de máquinas e equipamentos elétricos;8.49;2.13
-73;Serviços domésticos;0.00;0.00
-69;Saúde pública;-0.03;-0.02
-12;Fabricação de produtos do fumo;-0.28;-0.06
-70;Saúde privada;-0.31;-0.17
-67;Educação pública;-1.50;-1.26
-15;Fabricação de calçados e de artefatos de couro;-2.35;-0.84
+40;Geração centralizada de energia elétrica;5058.54;1687.44
+20;Biodiesel;1781.79;180.55
+42;Transmissão;363.31;194.72
+41;Geração distribuída de energia elétrica;314.19;108.90
+58;Intermediação financeira, seguros e previdência complementar;103.04;67.10
+33;Fabricação de máquinas e equipamentos elétricos;87.59;21.95
+64;Outras atividades administrativas e serviços complementares;61.30;41.38
+62;Outras atividades profissionais, científicas e técnicas;61.07;22.61
+22;Fabricação de biocombustíveis;60.95;12.86
+31;Fabricação de produtos de metal, exceto máquinas e equipamentos;44.74;14.63
